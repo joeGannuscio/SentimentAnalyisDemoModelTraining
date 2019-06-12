@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentimentAnalyisDemoModelTraining", "SentimentAnalyisDemoModelTraining\SentimentAnalyisDemoModelTraining.csproj", "{3D874F9F-38BF-4090-BECF-3A540CC04582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D874F9F-38BF-4090-BECF-3A540CC04582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D874F9F-38BF-4090-BECF-3A540CC04582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D874F9F-38BF-4090-BECF-3A540CC04582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D874F9F-38BF-4090-BECF-3A540CC04582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA41AB0B-91F7-421D-B15B-DFA53A2ED781}
+	EndGlobalSection
+EndGlobal
